@@ -1,0 +1,10 @@
+# 大型影片檔（改放 Google Drive 嵌入播放，不進 git）
+*.mp4
+*.mov
+*.m4v
+
+# 系統/暫存檔
+.DS_Store
+node_modules/
+package.json
+package-lock.json
